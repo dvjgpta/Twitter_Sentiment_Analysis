@@ -1,0 +1,8 @@
+# Ignore dataset files
+*.csv
+*.zip
+
+# Ignore Python cache and environments
+__pycache__/
+*.pyc
+.env/

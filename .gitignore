@@ -1,6 +1,7 @@
 # Ignore dataset files
 *.csv
 *.zip
+*.pkl
 
 # Ignore Python cache and environments
 __pycache__/
